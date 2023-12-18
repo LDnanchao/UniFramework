@@ -1,0 +1,26 @@
+{
+    "name": "YooAssetKit",
+    "rootNamespace": "",
+    "references": [
+        "QFramework",
+        "QFramework.CoreKit",
+        "YooAsset",
+        "UniTask",
+        "UIKit"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.tuyoogame.yooasset",
+            "expression": "",
+            "define": "UNI_YOOASSET_SUPPORT"
+        }
+    ],
+    "noEngineReferences": false
+}
